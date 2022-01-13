@@ -1,0 +1,29 @@
+[
+    {
+        "questionText": "Quel est la capital de l'algérie ?",
+        "answerOptions": [
+            { "answerText": "Rabat", "isCorrect": false },
+            { "answerText": "Paris", "isCorrect": false },
+            { "answerText": "Alger", "isCorrect": true },
+            { "answerText": "Tunis", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Quel est la superficie de l'algérie ?",
+        "answerOptions": [
+            { "answerText": "2,382 millions km²", "isCorrect": true },
+            { "answerText": "543 940 km²", "isCorrect": false },
+            { "answerText": "2 586 km²", "isCorrect": false },
+            { "answerText": "7,692 millions km²", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Quel est le nombre d'habitants en Algérie (en 2020) ?",
+        "answerOptions": [
+            { "answerText": "67,39 millions", "isCorrect": false },
+            { "answerText": "43,85 millions", "isCorrect": true },
+            { "answerText": "11,56 millions", "isCorrect": false },
+            { "answerText": "47,35 millions", "isCorrect": false }
+        ]
+    }
+]

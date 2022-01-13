@@ -1,0 +1,38 @@
+[
+  {
+    "questionText": "React est principalement utilisé pour construire ___",
+    "answerOptions": [
+      { "answerText": "Base de données", "isCorrect": false },
+      { "answerText": "Connectivité", "isCorrect": true },
+      { "answerText": "Interface d'utilisateur", "isCorrect": false },
+      { "answerText": "Plateforme de conception", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "En quel année a été crée React ?",
+    "answerOptions": [
+      { "answerText": "2010", "isCorrect": false },
+      { "answerText": "2020", "isCorrect": false },
+      { "answerText": "2013", "isCorrect": true },
+      { "answerText": "1999", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "React est un framework ___",
+    "answerOptions": [
+      { "answerText": "C#", "isCorrect": false },
+      { "answerText": "Python", "isCorrect": false },
+      { "answerText": "Java", "isCorrect": false },
+      { "answerText": "JavaScript", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "React a été crée par ___",
+    "answerOptions": [
+      { "answerText": "Jeff Bezos", "isCorrect": false },
+      { "answerText": "Jordan Walke", "isCorrect": true },
+      { "answerText": "Jeff Bezos", "isCorrect": false },
+      { "answerText": "Bill Gates", "isCorrect": false }
+    ]
+  }
+]
